@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [http://myfolio123.000webhostapp.com/](http://myfolio123.000webhostapp.com/)
 
-- 💬 Ask me about **Laravel, React JS, Laravel Splade**
+- 💬 Ask me about **Laravel, React JS, Laravel Inertia React, Laravel Inertia Vue Laravel Splade**
 
 - 📫 How to reach me **anwar.saeed656@gmail.com**
 
